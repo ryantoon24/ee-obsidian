@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "6940279489f18ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "164b5757dd529c88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "357ddb74f3734596",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d69147aa67c7ac25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98e79ff721d0d60",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98065f0308758ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d977e4adaa6be44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8a57408286deb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ca0e6a0925bf423",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f14bc7b4c7d8a04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cce5f61275d83095",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebd5d3c9987e8fe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2194b71fb822678",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d789850d8720dd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "41826e38e3c2b99e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36d59c72eb3ce929",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf8a57408286deb3",
+  "lastOpenFiles": [
+    "Untitled",
+    "EE321 - Com. Systems I",
+    "EE303 - Energy and Power",
+    "EE311 - Electromagnetic Fields and Waves",
+    "EE322 - Probalistic Methods for EE",
+    "EE330 - Integrated Electronics",
+    "EE324 - Signals and Systems II",
+    "EE224 - Signals and Systems I",
+    "CprE288 - Embedded Systems I",
+    "CprE281 - Digital Logic",
+    "EE230 - Electronic Circuits and Systems",
+    "Welcome.md"
+  ]
+}
